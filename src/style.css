@@ -1,0 +1,62 @@
+#main{
+    border:1PX solid gray;
+    width: 100%;
+    background-color: gray;
+    border-radius: 8px 8px 0px 0px;
+}
+.boxes{
+    display: flex;
+    width: 100%;
+    background-color: gray;
+
+}
+.boxes-1{
+    display: flex;
+    width: 100%;
+    background-color: gray;
+
+}
+.boxes-2{
+    display: flex;
+    width: 100%;
+    background-color: gray;
+
+}
+.boxes-3{
+    display: flex;
+    width: 100%;
+    background-color: gray;
+
+}
+.same{
+  
+    border:1px solid black;
+    width:25%
+}
+#container{
+    border: 2px solid black;
+    width: 20%;
+    border-radius: 8px;
+}
+.am{
+    background-color: yellow;
+}
+
+.boxes-4{
+    display: flex;
+    width: 100%;
+    background-color: gray;
+}
+
+.new{
+    width: 50%;
+}
+.new1{
+    width: 50%;
+}
+h3{
+    justify-content: center;
+    text-align: center;
+}
+
+
